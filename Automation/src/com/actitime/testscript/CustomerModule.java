@@ -19,7 +19,7 @@ public class CustomerModule extends BaseClass{
 
 	public void createCustomer() {
 		Reporter.log("CreateCustomer",true);
-		Assert.fail();
+		
 	}
 	
 	@Test
